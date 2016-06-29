@@ -36,4 +36,5 @@ OTHER_FILES += configure.ac \
                Doxyfile.in \
                NEWS \
                TODO \
-               README.md
+               README.md \
+               .gitignore

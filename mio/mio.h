@@ -25,7 +25,6 @@
 # include <config.h>
 #endif
 #include "lib/inaddr.h"
-#include "ac-stdint.h"
 
 /* jabberd2 Windows DLL */
 #ifndef JABBERD2_API
